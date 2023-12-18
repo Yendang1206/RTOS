@@ -1,4 +1,4 @@
-# RTOS
+# Bigger number wins
 
 This is uCOS program. There are two tasks: Player_1 and Player_2, who are playing "Bigger number wins" with a global variables (counter) and third tasks (GameMaster) will announce which player is a winner.
 
